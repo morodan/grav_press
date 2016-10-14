@@ -1,0 +1,26 @@
+title: HealthPress
+author:
+  name: Grav
+  email: joe@test.com
+  url: 'http://getgrav.org/'
+  gravatar: contact@getgrav.org
+  description: 'Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.'
+taxonomies:
+  - category
+  - tag
+  - month
+metadata:
+  description: 'Pinpress is a minimal Theme designed for blogger, converted to Grav.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: ''
+description: 'Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.'
+menu:
+  -
+    url: error
+    text: 'Error Page'
+copyright: 'Created By <a href="http://www.soratemplates.com/" rel="dofollow" target="_blank" title="Blogger Templates">Sora Templates</a> and <a href="http://mybloggerthemes.com/" rel="dofollow" target="_blank" title="Blogger Templates">My Blogger Themes</a> , Ported By <a href="http://www.getgrav.org" rel="dofollow" target="_blank" title="Grav">Grav Team</a>'
